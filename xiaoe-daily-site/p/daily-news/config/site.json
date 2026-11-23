@@ -1,0 +1,9 @@
+{
+  "name": "心理学与社会热点",
+  "accentColor": "#B4682F",
+  "priorityLimits": {
+    "lead": 1,
+    "important": 2,
+    "normal": null
+  }
+}
