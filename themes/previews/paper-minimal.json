@@ -1,0 +1,58 @@
+{
+  "attributes": {
+    "density": "balanced",
+    "important": "ruled",
+    "lead": "editorial",
+    "masthead": "compact",
+    "motion": "subtle",
+    "normal": "minimal",
+    "surface": "paper",
+    "theme": "paper-minimal"
+  },
+  "candidateHash": "00c4b784cb5ef9a2c3fbf21d76d8e7b7d8b19355173e431475f8df9b5e14069b",
+  "colorScheme": "light",
+  "colors": {
+    "background": "#FAF7F0",
+    "text": "#1A1714"
+  },
+  "compilerVersion": "2",
+  "cssPath": "/themes/previews/paper-minimal.css",
+  "definition": {
+    "compilerVersion": "2",
+    "description": "米白纸质底、无衬线标题、细线分隔的简洁阅读风格。",
+    "id": "paper-minimal",
+    "name": "米白简洁",
+    "recipes": {
+      "important": "ruled",
+      "lead": "editorial",
+      "masthead": "compact",
+      "normal": "minimal"
+    },
+    "revision": 0,
+    "schemaVersion": 1,
+    "tokens": {
+      "colors": {
+        "accent": "#B4682F",
+        "background": "#FAF7F0",
+        "muted": "#6E675C",
+        "rule": "#D9D3C7",
+        "text": "#1A1714"
+      },
+      "density": "balanced",
+      "motion": "subtle",
+      "ruleStyle": "hairline",
+      "surfaceStyle": "paper",
+      "typography": {
+        "headlinePreset": "sans-cn",
+        "headlineScale": "restrained",
+        "uiPreset": "sans-cn"
+      }
+    },
+    "usesSiteAccent": false
+  },
+  "inputHash": "9c86cf3b0fe9995980bae4447e3753b5fcbb48d9974e09838c190a83ec49e341",
+  "revision": 0,
+  "schemaVersion": 1,
+  "status": "preview-ready",
+  "themeId": "paper-minimal"
+}

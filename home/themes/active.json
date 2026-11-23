@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "themeId": "paper-minimal",
+  "revision": 1,
+  "compilerVersion": "2",
+  "candidateHash": null,
+  "cssPath": "/themes/compiled/paper-minimal/1.css",
+  "attributes": {
+    "theme": "paper-minimal",
+    "density": "balanced",
+    "surface": "paper",
+    "motion": "subtle",
+    "masthead": "compact",
+    "lead": "editorial",
+    "important": "ruled",
+    "normal": "minimal"
+  },
+  "colors": {
+    "background": "#FAF7F0",
+    "text": "#1A1714"
+  },
+  "colorScheme": "light"
+}

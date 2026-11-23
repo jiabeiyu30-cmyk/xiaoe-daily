@@ -1,0 +1,29 @@
+/* DailyNews Theme | schemaVersion=1 | id=paper-minimal | revision=1 | compiler=2 */
+:root {
+  --color-background: #FAF7F0;
+  --color-text: #1A1714;
+  --color-muted: #6E675C;
+  --color-accent: #B4682F;
+  --color-accent-text: #674022;
+  --color-rule: #D9D3C7;
+  --color-focus: #B4682F;
+  --color-backdrop: color-mix(in srgb, #1A1714 32%, transparent);
+  --shadow-panel: 0 18px 48px color-mix(in srgb, #1A1714 16%, transparent);
+  --font-headline: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-ui: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+  --page-gutter: 48px;
+  --row-space: 30px;
+  --story-gap: 24px;
+  --source-gap: 22px;
+  --rule-width: 1px;
+  --rule-style: solid;
+  --headline-large: clamp(48px, 5vw, 68px);
+  --headline-large-long: clamp(42px, 4.4vw, 58px);
+  --headline-large-extra-long: clamp(36px, 3.8vw, 48px);
+  --headline-large-mobile: clamp(40px, 11vw, 50px);
+  --headline-large-long-mobile: clamp(35px, 9.6vw, 44px);
+  --headline-large-extra-long-mobile: clamp(31px, 8.4vw, 38px);
+  --headline-medium: clamp(30px, 3vw, 40px);
+  --headline-small: clamp(23px, 2vw, 29px);
+  --surface-background: linear-gradient(90deg, color-mix(in srgb, var(--color-accent) 5%, transparent), transparent 30%), var(--color-background);
+}

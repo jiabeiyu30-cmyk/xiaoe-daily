@@ -1,0 +1,377 @@
+{
+  "schemaVersion": 2,
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T19:29:47+08:00",
+  "coverage": {
+    "start": "2026-11-22T19:00:00+08:00",
+    "end": "2026-11-23T19:27:09+08:00"
+  },
+  "revision": 5,
+  "items": [
+    {
+      "id": "cop31-no-deal",
+      "title": "史上最长气候谈判COP31无果而终",
+      "brief": "谈判史上最长却无果，卡在责任与资金；评述：成本在今天、收益在未来，谁都不愿先付。",
+      "summary": "据 BBC 报道，联合国气候变化大会（COP31）在未达成协议的情况下结束，这场在土耳其安塔利亚举行的谈判是联合国气候大会历史上持续时间最长的一次。共同主办方澳大利亚的总理将失败归因于“艰难的地缘政治时期”。大会暴露出的分歧仍集中在减排责任与资金安排上。\n【评述】成本在当下、收益在未来，各国自然把承诺往后推；气候分歧更多来自身份与认同，而不只是信息不足。",
+      "editorial": {
+        "priority": "lead",
+        "selectionReason": "当日全球议程中影响面最大的事件。"
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+          "originalTitle": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+          "publishedAt": "2026-11-23T13:15:06+08:00"
+        }
+      ],
+      "category": "全球·气候"
+    },
+    {
+      "id": "dymer-strike-boy",
+      "title": "乌克兰住宅遭袭 7岁男童被困后获救",
+      "brief": "袭击致 11 人死亡，7 岁男童被埋数小时后获救；评述：一张孩子的脸比死亡数字更能推动人行动。",
+      "summary": "据 BBC 报道，乌克兰代梅尔一处居民楼遭俄方袭击，一名 7 岁男童在被埋数小时后获救。此次袭击已造成 11 人死亡，救援人员仍在废墟中搜寻失联者。\n【评述】“一个孩子获救”比“11人死亡”更能唤起行动意愿，这是可识别受害者效应；孩子的声音常在成人叙述里被代转述。",
+      "editorial": {
+        "priority": "important",
+        "selectionReason": "具有明确公共影响与地缘含义的突发冲突。"
+      },
+      "sources": [
+        {
+          "name": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+          "originalTitle": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+          "publishedAt": "2026-11-23T13:33:17+08:00"
+        }
+      ],
+      "category": "全球·冲突"
+    },
+    {
+      "id": "benghazi-warship",
+      "title": "俄军舰在利比亚班加西遇袭后沉没",
+      "brief": "俄舰在班加西港爆炸沉没，无人认领；评述：可否认性正是灰色地带冲突的常态。",
+      "summary": "据《卫报》报道，一艘俄罗斯军舰在利比亚班加西港内发生爆炸后沉没，外界怀疑与乌克兰无人机袭击有关。该舰当时正停靠在返回俄罗斯的途中。目前没有任何方面宣称对此次袭击负责。\n【评述】无人认领本身就是信息：可否认性让对手无法确定报复对象，这是当代灰色地带冲突的常态。",
+      "editorial": {
+        "priority": "important",
+        "selectionReason": "具有明确公共影响与地缘含义的突发冲突。"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi",
+          "originalTitle": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack"
+        }
+      ],
+      "category": "全球·冲突"
+    },
+    {
+      "id": "aeon-ai-human",
+      "title": "当AI越来越像人，人如何自处",
+      "brief": "Aeon 短片问 AI 像人之后人如何自处；评述：AI 越像人，人越容易把意图投射给它。",
+      "summary": "Aeon 发布短片《风与歌：AI 的背叛》，讨论当人工智能在观看、言说与思考上越来越接近人类时，人应当如何与它共处、并保住“完整的人”的位置。文章把问题从技术能力转向伦理与自我理解。\n【评述】AI 越像人，人越容易把意图投射给它；做相关问卷时，“它有没有意图”比“你信不信任它”更有解释力。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "人文与思想类内容，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "name": "Aeon",
+          "url": "https://aeon.co/videos/what-does-it-mean-when-humans-and-technology-become-indistinguishable",
+          "originalTitle": "The wind and the song: the treachery of AI",
+          "publishedAt": "2026-11-23T19:01:00+08:00"
+        }
+      ],
+      "category": "人文·思想"
+    },
+    {
+      "id": "aeon-el-nino",
+      "title": "厄尔尼诺如何塑造文明命运",
+      "brief": "厄尔尼诺数千年间反复改写社会命运；评述：史料当自然实验，是横断面数据拿不到因果时的替代。",
+      "summary": "Aeon 刊文指出，厄尔尼诺现象数千年来反复扰乱全球天气，并深刻影响社会的兴衰。作者认为，回看历史上的厄尔尼诺经验，可能为理解未来更动荡的气候提供线索。\n【评述】用史料做自然实验，是横断面问卷拿不到因果时的一种替代思路；样本小就该少谈因果。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "人文与思想类内容，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "name": "Aeon",
+          "url": "https://aeon.co/essays/what-can-we-learn-from-the-past-experience-of-el-nino",
+          "originalTitle": "A colossal oscillation",
+          "publishedAt": "2026-11-23T19:00:00+08:00"
+        }
+      ],
+      "category": "人文·历史"
+    },
+    {
+      "id": "guardian-collaborator-films",
+      "title": "欧洲被占题材电影转向“合作者”叙事",
+      "brief": "欧洲被占题材电影转向“合作者”；评述：把恶人还原为处境中的人，解释力更高。",
+      "summary": "《卫报》文化版注意到，数十年来关于纳粹占领时期欧洲的电影多以无畏的抵抗者为主角，而近年新片开始把镜头对准“合作者”，追问普通人在极端处境下的选择与代价。\n【评述】把“恶人”还原为处境中的人，解释力更高；高控制、高否定的家长，往往先是被耗竭的人。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "人文与思想类内容，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/film/2026/nov/23/chilling-new-films-casting-nazi-collaborators-new-wave",
+          "originalTitle": "‘What if joining the resistance got your friends executed?’ The chilling new films casting Nazi collaborators"
+        }
+      ],
+      "category": "人文·电影"
+    },
+    {
+      "id": "guardian-nan-goldin",
+      "title": "南·戈尔丁回顾展：当代美国最锋利的镜头",
+      "brief": "戈尔丁回顾展在伦敦开幕；评述：把私生活交给公众看的前提，是允许撤回——你的研究同理。",
+      "summary": "《卫报》评论称，摄影师南·戈尔丁在伦敦海沃德美术馆的回顾展，显示她是自沃霍尔以来最重要的美国艺术家之一；展览把她的影像与卡拉瓦乔、希腊神话的线索并置。\n【评述】把私生活变成可被观看的档案，伦理上必须允许撤回；这对应你研究里的“不向家长反馈儿童作答”。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "人文与思想类内容，提供与硬新闻互补的阅读。"
+      },
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/artanddesign/2026/nov/23/nan-goldin-review-hayward-gallery-london",
+          "originalTitle": "Cat’s whiskers: Nan Goldin proves that she’s the greatest US artist since Warhol",
+          "publishedAt": "2026-11-23T08:01:41+08:00"
+        }
+      ],
+      "category": "人文·艺术"
+    },
+    {
+      "id": "sudan-khartoum-drone-attack",
+      "title": "苏丹首都遭无人机袭击 至少4人死亡",
+      "brief": "喀土穆遭无人机袭击致 4 死，联合国设施受损；评述：战场边界正在消失。",
+      "summary": "中新社北京11月23日电，据喀土穆消息，当地时间11月22日苏丹首都喀土穆及其西北的恩图曼市遭无人机袭击，造成至少4人死亡，一处联合国设施受损。当地冲突已持续多日，此次袭击波及联合国相关设施。\n【评述】冲突中平民与联合国设施同时受损，说明战场边界正在消失。",
+      "editorial": {
+        "priority": "lead",
+        "selectionReason": "当日伤亡明确的国际冲突事件，涉及联合国设施，影响面与公共关注度最高。"
+      },
+      "sources": [
+        {
+          "originalTitle": "苏丹首都遭无人机袭击造成4人死亡",
+          "name": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736507.shtml",
+          "publishedAt": "2026-11-23T19:09:46+08:00"
+        }
+      ],
+      "category": "国际·政治"
+    },
+    {
+      "id": "wlan-alliance-iso-liaison",
+      "title": "中国发起的无线局域网联盟获ISO最高等级联络身份",
+      "brief": "该联盟获 ISO/IEC A 类联络身份；评述：标准之争是产业竞争的上游。",
+      "summary": "据中新网报道，中国发起成立的世界无线局域网应用发展联盟获得国际标准化组织（ISO）与国际电工委员会（IEC）框架下的A类联络组织身份。A类联络组织是该框架下的最高等级联络身份，可经快速程序直接提出国际标准立项，并具有查阅技术文件、参加会议、反馈意见和提名专家等权利。\n【评述】标准之争是产业竞争的上游：谁定标准，谁就定了后面十年的接口。",
+      "editorial": {
+        "priority": "important",
+        "selectionReason": "涉及中国技术方案进入国际标准体系的通道，与 AI、通信等产业标准化能力直接相关。"
+      },
+      "sources": [
+        {
+          "originalTitle": "中国发起成立的世界无线局域网应用发展联盟获国际认可",
+          "name": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736594.shtml",
+          "publishedAt": "2026-11-23T19:10:02+08:00"
+        }
+      ],
+      "category": "科技·标准"
+    },
+    {
+      "id": "shanghai-metro-fare-2026",
+      "title": "上海地铁新票价方案12月1日起执行",
+      "brief": "3 元起乘不变，起乘距离缩至 4 公里；评述：短途变贵，影响偏中长途通勤者。",
+      "summary": "上海地铁新票价方案落地，自12月1日起执行。新方案保持3元起乘价不变，起乘距离由0—6公里调整为0—4公里，之后每4、4、4、7、7、10、10公里加1元，50公里以上每15公里加1元。调整覆盖全市常规轨道交通线路，不含磁浮线、金山铁路、市域机场线及未来新开通的市域线路。\n【评述】短途变贵、长途微调，影响偏向中长途通勤者，值得算一次真实通勤成本。",
+      "editorial": {
+        "priority": "important",
+        "selectionReason": "直接影响通勤成本的公共政策落地，读者相关性强，且规则细节可核对。"
+      },
+      "sources": [
+        {
+          "originalTitle": "上海地铁新票价方案落地 12月1日起执行",
+          "name": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/cj/2026/11-23/10736582.shtml",
+          "publishedAt": "2026-11-23T19:11:00+08:00"
+        }
+      ],
+      "category": "社会·民生"
+    },
+    {
+      "id": "gale-warning-9-provinces",
+      "title": "大风蓝色预警：9省区局地阵风可达10级",
+      "brief": "9 省区局地阵风可达 10 级；评述：对户外作业与设施农业是明确的操作提醒。",
+      "summary": "中央气象台11月23日18时继续发布大风蓝色预警，内蒙古、山西等9省区局部地区阵风可达10级。气象部门提示相关地区注意防范大风对交通、设施农业和高空作业的不利影响。\n【评述】常规预警，但对户外作业与设施农业是明确的操作提醒。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "影响范围广但属常规预警，作为生活提示保留。"
+      },
+      "sources": [
+        {
+          "originalTitle": "大风蓝色预警：内蒙古山西等9省区局部地区阵风可达10级",
+          "name": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/sh/2026/11-23/10736591.shtml",
+          "publishedAt": "2026-11-23T19:03:59+08:00"
+        }
+      ],
+      "category": "社会·天气"
+    },
+    {
+      "id": "gaoxingfu-verdict",
+      "title": "浙江省人大常委会原副主任高兴夫一审被判死缓",
+      "brief": "受贿案一审宣判死缓；评述：属制度信号的常规释放。",
+      "summary": "据中新网报道，浙江省人大常委会原副主任高兴夫受贿案一审宣判，法院判处其死刑，缓期二年执行。案件由检察机关提起公诉，判决结果已由法院公开宣判。\n【评述】省级人大系统案件的公开宣判，属制度信号的常规释放。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "省级人大系统反腐案件，具有制度信号意义，属常规政务新闻。"
+      },
+      "sources": [
+        {
+          "originalTitle": "浙江省人大常委会原副主任高兴夫一审被判死缓",
+          "name": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736593.shtml",
+          "publishedAt": "2026-11-23T19:10:40+08:00"
+        }
+      ],
+      "category": "政治·反腐"
+    },
+    {
+      "id": "wangyi-eu-trade-narrative",
+      "title": "王毅：中欧应跳出“贸易不平衡”叙事陷阱",
+      "brief": "主张跳出“贸易不平衡”叙事；评述：把差额从结论降为议题，为谈判留空间。",
+      "summary": "据中新网报道，外交部长王毅就中欧经贸关系表示，中欧应跳出所谓“贸易不平衡”的叙事陷阱，主张在相互尊重基础上通过对话处理分歧。相关表态出现在当日的外事活动报道中。\n【评述】把贸易差额从“结论”降为“议题”，是为谈判留出空间的外交表述。",
+      "editorial": {
+        "priority": "normal",
+        "selectionReason": "中欧经贸关系走向的权威表态，与产业与外贸读者相关。"
+      },
+      "sources": [
+        {
+          "originalTitle": "王毅：中欧应跳出所谓“贸易不平衡”叙事陷阱",
+          "name": "中国新闻网",
+          "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736589.shtml",
+          "publishedAt": "2026-11-23T19:10:20+08:00"
+        }
+      ],
+      "category": "国际·政治"
+    }
+  ],
+  "layout": {
+    "rows": [
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "cop31-no-deal",
+            "resolvedPriority": "lead",
+            "size": "large",
+            "span": 4,
+            "mediaVariant": "none"
+          }
+        ]
+      },
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "dymer-strike-boy",
+            "resolvedPriority": "important",
+            "size": "medium",
+            "span": 2,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "benghazi-warship",
+            "resolvedPriority": "important",
+            "size": "medium",
+            "span": 2,
+            "mediaVariant": "none"
+          }
+        ]
+      },
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "aeon-ai-human",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "aeon-el-nino",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "guardian-collaborator-films",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "guardian-nan-goldin",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          }
+        ]
+      },
+      {
+        "usedCapacity": 4,
+        "modules": [
+          {
+            "itemId": "sudan-khartoum-drone-attack",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "wlan-alliance-iso-liaison",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "shanghai-metro-fare-2026",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "gale-warning-9-provinces",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          }
+        ]
+      },
+      {
+        "usedCapacity": 2,
+        "modules": [
+          {
+            "itemId": "gaoxingfu-verdict",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          },
+          {
+            "itemId": "wangyi-eu-trade-narrative",
+            "resolvedPriority": "normal",
+            "size": "small",
+            "span": 1,
+            "mediaVariant": "none"
+          }
+        ]
+      }
+    ]
+  }
+}
